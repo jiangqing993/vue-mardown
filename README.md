@@ -21,7 +21,7 @@ yarn lint
 ```
 
 ### 项目完整代码
-[github vue-markdown](https://mermaidjs.github.io/)
+[github vue-markdown](https://github.com/jiangqing993/vue-mardown)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -20,6 +20,9 @@ yarn build
 yarn lint
 ```
 
+#### 项目完整代码
+[github](https://mermaidjs.github.io/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
